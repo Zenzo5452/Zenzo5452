@@ -1,0 +1,23 @@
+body {
+    background-color: #040404fc;
+    font-family: Arial, sans-serif;
+}
+
+.clock-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#clock {
+    font-size: 100px;
+    font-weight: bold;
+    color: #f9f8f8;
+}
+
+
+
+
+
